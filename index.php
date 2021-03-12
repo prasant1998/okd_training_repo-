@@ -1,5 +1,13 @@
+<body bgcolor='aqua'>
+<pre>
+
 <?php
 
-print "Welcome to the OCP first ";
+print "welcome to vimal web server for testing";
+
+
+print `ifconfig`;
 
 ?>
+
+</pre>
